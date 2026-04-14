@@ -1,20 +1,21 @@
-# Student Loan Forgiveness -- Every Path to Relief [2026]
+# Student Loan Forgiveness - Every Path to Relief [2026]
 > Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates. 2026...
 
 ## About
 studentloanforgive.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Student Loan Forgiveness Status (2024-2026) -- What's Happening Now: https://studentloanforgive.org/biden-forgiveness-status.html
-- Borrower Defense to Repayment -- Discharge for School Fraud -- Student Loan Forgiveness: https://studentloanforgive.org/borrower-defense.html
-- The Brunner Test -- Discharging Student Loans in Bankruptcy -- Student Loan Forgiveness: https://studentloanforgive.org/brunner-test.html
-- Closed School Student Loan Discharge -- When Your College Shuts Down -- Student Loan Forgiveness: https://studentloanforgive.org/closed-school-discharge.html
-- Income-Driven Repayment (IDR) Forgiveness -- What Happens After 20-25 Years -- Student Loan Forgiveness: https://studentloanforgive.org/idr-forgiveness.html
-- Student Loan Forgiveness -- Every Path to Relief: https://studentloanforgive.org/
-- Public Service Loan Forgiveness (PSLF) -- Complete Guide -- Student Loan Forgiveness: https://studentloanforgive.org/pslf-program.html
-- The SAVE Plan -- Newest Income-Driven Repayment Option -- Student Loan Forgiveness: https://studentloanforgive.org/save-plan.html
-- Teacher Loan Forgiveness -- Up to $17,500 for Qualifying Educators -- Student Loan Forgiveness: https://studentloanforgive.org/teacher-loan-forgiveness.html
-- Total and Permanent Disability (TPD) Student Loan Discharge -- Student Loan Forgiveness: https://studentloanforgive.org/total-disability-discharge.html
+- Student Loan Forgiveness Status (2024-2026) - What's Happening Now: https://studentloanforgive.org/biden-forgiveness-status.html
+- Borrower Defense to Repayment - Discharge for School Fraud - Student Loan Forgiveness: https://studentloanforgive.org/borrower-defense.html
+- The Brunner Test - Discharging Student Loans in Bankruptcy - Student Loan Forgiveness: https://studentloanforgive.org/brunner-test.html
+- Closed School Student Loan Discharge - When Your College Shuts Down - Student Loan Forgiveness: https://studentloanforgive.org/closed-school-discharge.html
+- Income-Driven Repayment (IDR) Forgiveness - What Happens After 20-25 Years - Student Loan Forgiveness: https://studentloanforgive.org/idr-forgiveness.html
+- Student Loan Forgiveness - Every Path to Relief: https://studentloanforgive.org/
+- Public Service Loan Forgiveness (PSLF) - Complete Guide - Student Loan Forgiveness: https://studentloanforgive.org/pslf-program.html
+- The SAVE Plan - Newest Income-Driven Repayment Option - Student Loan Forgiveness: https://studentloanforgive.org/save-plan.html
+- Teacher Loan Forgiveness - Up to $17,500 for Qualifying Educators - Student Loan Forgiveness: https://studentloanforgive.org/teacher-loan-forgiveness.html
+- Total and Permanent Disability (TPD) Student Loan Discharge - Student Loan Forgiveness: https://studentloanforgive.org/total-disability-discharge.html
+- Privacy Policy: https://studentloanforgive.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

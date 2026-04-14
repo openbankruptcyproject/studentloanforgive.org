@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Student Loan Forgiveness Status (2024-2026) -- What's Happening Now
+## Student Loan Forgiveness Status (2024-2026) - What's Happening Now
 Source: https://studentloanforgive.org/biden-forgiveness-status.html
 
 Student Loan Forgiveness Status
@@ -29,7 +29,7 @@ The political environment affects administrative action (executive orders, regul
 
 What Borrowers Should Do Now
 
-1. Check your loan type and servicer at studentaid.gov. 2. Enroll in an IDR plan if not already (SAVE if available, otherwise IBR or PAYE). 3. Submit PSLF Employment Certification if you work for a qualifying employer. 4. Check Borrower Defense eligibility if your school was a for-profit. 5. Apply for TPD discharge if you have a qualifying disability. 6. Don't wait -- every month in repayment counts toward forgiveness, and retroactive credits (like the IDR adjustment) have largely been completed.
+1. Check your loan type and servicer at studentaid.gov. 2. Enroll in an IDR plan if not already (SAVE if available, otherwise IBR or PAYE). 3. Submit PSLF Employment Certification if you work for a qualifying employer. 4. Check Borrower Defense eligibility if your school was a for-profit. 5. Apply for TPD discharge if you have a qualifying disability. 6. Don't wait - every month in repayment counts toward forgiveness, and retroactive credits (like the IDR adjustment) have largely been completed.
 
 If your student loans feel unmanageable, you have more options than ever. Between IDR, forgiveness programs, and improved bankruptcy discharge prospects, there's likely a path forward.
 
@@ -45,7 +45,7 @@ These terms are used interchangeably in most contexts. 'Forgiveness' typically r
 
 Should I keep paying my student loans while waiting for forgiveness?
 
-If you're enrolled in an IDR plan, continue making your required payments (which may be $0). Every qualifying month counts toward forgiveness. Don't go into forbearance or deferment unless necessary -- those months generally don't count toward IDR/PSLF forgiveness.
+If you're enrolled in an IDR plan, continue making your required payments (which may be $0). Every qualifying month counts toward forgiveness. Don't go into forbearance or deferment unless necessary - those months generally don't count toward IDR/PSLF forgiveness.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -75,7 +75,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -159,7 +159,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Borrower Defense to Repayment -- Discharge for School Fraud -- Student Loan Forgiveness
+## Borrower Defense to Repayment - Discharge for School Fraud - Student Loan Forgiveness
 Source: https://studentloanforgive.org/borrower-defense.html
 
 Borrower Defense to Repayment
@@ -184,7 +184,7 @@ Group Borrower Defense Findings
 
 The Department of Education has issued group findings for certain schools, providing automatic discharge without individual applications. Schools with group findings include: Corinthian Colleges (Heald, Everest, WyoTech), ITT Technical Institute, Marinello Schools of Beauty, and certain Art Institute campuses. If your school has a group finding, you may receive automatic discharge.
 
-Check the Department of Education's website for current group findings. If your school is listed, you don't need to submit an individual application -- the discharge should be processed automatically.
+Check the Department of Education's website for current group findings. If your school is listed, you don't need to submit an individual application - the discharge should be processed automatically.
 
 Frequently Asked Questions
 
@@ -228,7 +228,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -312,7 +312,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## The Brunner Test -- Discharging Student Loans in Bankruptcy -- Student Loan Forgiveness
+## The Brunner Test - Discharging Student Loans in Bankruptcy - Student Loan Forgiveness
 Source: https://studentloanforgive.org/brunner-test.html
 
 The Brunner Test
@@ -335,7 +335,7 @@ This has dramatically increased successful discharges. Before 2022, fewer than 1
 
 How to Pursue Student Loan Discharge
 
-Student loan discharge requires an adversary proceeding -- a separate lawsuit filed within your bankruptcy case. This is more complex than a standard bankruptcy filing. Step 1: File Chapter 7 or Chapter 13 bankruptcy. Step 2: File a complaint initiating an adversary proceeding against your student loan servicer/holder. Step 3: Complete the DOJ's attestation form (for federal loans). Step 4: Provide evidence of your financial situation. Step 5: Negotiate with the government/lender or proceed to trial.
+Student loan discharge requires an adversary proceeding - a separate lawsuit filed within your bankruptcy case. This is more complex than a standard bankruptcy filing. Step 1: File Chapter 7 or Chapter 13 bankruptcy. Step 2: File a complaint initiating an adversary proceeding against your student loan servicer/holder. Step 3: Complete the DOJ's attestation form (for federal loans). Step 4: Provide evidence of your financial situation. Step 5: Negotiate with the government/lender or proceed to trial.
 
 Consider getting a bankruptcy attorney experienced in student loan adversary proceedings. Some legal aid organizations and law school clinics specialize in this. The landscape has shifted dramatically in favor of borrowers since 2022.
 
@@ -381,7 +381,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -465,7 +465,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Closed School Student Loan Discharge -- When Your College Shuts Down -- Student Loan Forgiveness
+## Closed School Student Loan Discharge - When Your College Shuts Down - Student Loan Forgiveness
 Source: https://studentloanforgive.org/closed-school-discharge.html
 
 Closed School Discharge
@@ -482,7 +482,7 @@ This applies to all federal student loans (Direct, FFEL, Perkins) taken for enro
 
 Automatic vs. Application Discharge
 
-Since 2022, the Department of Education has automatically discharged loans for borrowers who were enrolled at the time of closure and didn't subsequently enroll elsewhere within 3 years. If you qualify for automatic discharge, you don't need to do anything -- the discharge happens without an application.
+Since 2022, the Department of Education has automatically discharged loans for borrowers who were enrolled at the time of closure and didn't subsequently enroll elsewhere within 3 years. If you qualify for automatic discharge, you don't need to do anything - the discharge happens without an application.
 
 If you weren't automatically discharged (perhaps because you enrolled at another school or withdrew more than 180 days before closure), you can apply manually. Submit the Closed School Discharge Application to your loan servicer with documentation of your enrollment dates.
 
@@ -504,7 +504,7 @@ Yes. Closed school discharge includes a refund of all payments made on the disch
 
 What if I completed most of my program before the school closed?
 
-You still qualify if you were enrolled when the school closed and didn't complete the program through a teach-out. The percentage of completion doesn't matter -- even if you were one class away from graduating, you qualify for full discharge.
+You still qualify if you were enrolled when the school closed and didn't complete the program through a teach-out. The percentage of completion doesn't matter - even if you were one class away from graduating, you qualify for full discharge.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -534,7 +534,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -618,7 +618,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Income-Driven Repayment (IDR) Forgiveness -- What Happens After 20-25 Years -- Student Loan Forgiveness
+## Income-Driven Repayment (IDR) Forgiveness - What Happens After 20-25 Years - Student Loan Forgiveness
 Source: https://studentloanforgive.org/idr-forgiveness.html
 
 IDR Loan Forgiveness
@@ -641,9 +641,9 @@ The insolvency exclusion (IRC 108(a)(1)(B)) may reduce or eliminate the tax if y
 
 Maximizing IDR Forgiveness
 
-Choose the right plan: SAVE generally offers the lowest payments for most borrowers. Recertify income annually: Late recertification can result in capitalized interest and a temporary jump to the standard payment. Track your payment count: The IDR account adjustment (one-time count recount by ED) credited many borrowers with additional months. Consider filing taxes separately: If married, filing separately can lower your AGI and reduce IDR payments (though it may increase total taxes -- run the numbers).
+Choose the right plan: SAVE generally offers the lowest payments for most borrowers. Recertify income annually: Late recertification can result in capitalized interest and a temporary jump to the standard payment. Track your payment count: The IDR account adjustment (one-time count recount by ED) credited many borrowers with additional months. Consider filing taxes separately: If married, filing separately can lower your AGI and reduce IDR payments (though it may increase total taxes - run the numbers).
 
-If you also qualify for PSLF, pursue PSLF instead -- it's faster (10 years vs. 20-25) and the forgiveness is permanently tax-free.
+If you also qualify for PSLF, pursue PSLF instead - it's faster (10 years vs. 20-25) and the forgiveness is permanently tax-free.
 
 Frequently Asked Questions
 
@@ -687,7 +687,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -779,8 +779,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Forgiveness -- Every Path to Relief [2026]
+## Student Loan Forgiveness - Every Path to Relief [2026]
 Source: https://studentloanforgive.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -802,13 +804,13 @@ Requirements: Direct Loans only (consolidate FFEL/Perkins into Direct), enrolled
 
 Income-Driven Repayment Forgiveness
 
-Under IDR plans, remaining balances are forgiven after 20-25 years of qualifying payments. Plans include: SAVE (Saving on a Valuable Education) -- 10% discretionary income, forgiveness at 20 years (undergraduate) or 25 years (graduate). PAYE (Pay As You Earn) -- 10% discretionary income, 20-year forgiveness. IBR (Income-Based Repayment) -- 10-15% discretionary income, 20-25 year forgiveness. ICR (Income-Contingent Repayment) -- 20% discretionary income, 25-year forgiveness.
+Under IDR plans, remaining balances are forgiven after 20-25 years of qualifying payments. Plans include: SAVE (Saving on a Valuable Education) - 10% discretionary income, forgiveness at 20 years (undergraduate) or 25 years (graduate). PAYE (Pay As You Earn) - 10% discretionary income, 20-year forgiveness. IBR (Income-Based Repayment) - 10-15% discretionary income, 20-25 year forgiveness. ICR (Income-Contingent Repayment) - 20% discretionary income, 25-year forgiveness.
 
 Important tax consideration: IDR forgiveness may be treated as taxable income (though this is suspended through 2025 under ARPA). PSLF forgiveness is always tax-free.
 
 Total and Permanent Disability Discharge
 
-If you are totally and permanently disabled, you can have your federal student loans discharged. Three ways to qualify: SSA determination -- if you receive SSDI/SSI and your next disability review is 5-7 years away. VA determination -- VA rating of 100% disabled or unemployable. Physician certification -- a doctor certifies you cannot engage in substantial gainful activity.
+If you are totally and permanently disabled, you can have your federal student loans discharged. Three ways to qualify: SSA determination - if you receive SSDI/SSI and your next disability review is 5-7 years away. VA determination - VA rating of 100% disabled or unemployable. Physician certification - a doctor certifies you cannot engage in substantial gainful activity.
 
 After discharge, there is a 3-year monitoring period. If your income exceeds the poverty line or you take out new student loans during monitoring, the discharge can be reversed. Learn more about disability and debt.
 
@@ -826,7 +828,7 @@ This has been used successfully against for-profit schools like Corinthian Colle
 
 Student Loan Bankruptcy Discharge
 
-Contrary to popular belief, student loans can be discharged in bankruptcy -- it is just harder. You must demonstrate "undue hardship" in an adversary proceeding (a separate lawsuit within the bankruptcy). Most courts use the Brunner test: you cannot maintain a minimal standard of living, your situation is likely to persist, and you have made good-faith efforts to repay.
+Contrary to popular belief, student loans can be discharged in bankruptcy - it is just harder. You must demonstrate "undue hardship" in an adversary proceeding (a separate lawsuit within the bankruptcy). Most courts use the Brunner test: you cannot maintain a minimal standard of living, your situation is likely to persist, and you have made good-faith efforts to repay.
 
 The Department of Justice issued new guidance in 2022 making it easier for government attorneys to recommend discharge in qualifying cases. Some courts are also moving away from the strict Brunner test. If you're in default, understanding your options is critical.
 
@@ -852,23 +854,23 @@ Submit the PSLF Employment Certification Form annually at studentaid.gov. After 
 
 Explore Our Guides
 
-Public Service Loan Forgiveness (PSLF) -- Everything you need to know about PSLF. Qualifying employers, eligible payments, application process, and the temporary
+Public Service Loan Forgiveness (PSLF) - Everything you need to know about PSLF. Qualifying employers, eligible payments, application process, and the temporary
 
-IDR Loan Forgiveness -- IDR plans forgive remaining balances after 20-25 years of payments. Understand which plans qualify, the payment count, a
+IDR Loan Forgiveness - IDR plans forgive remaining balances after 20-25 years of payments. Understand which plans qualify, the payment count, a
 
-Teacher Loan Forgiveness -- Teachers at low-income schools may qualify for up to $17,500 in federal student loan forgiveness after 5 years of servic
+Teacher Loan Forgiveness - Teachers at low-income schools may qualify for up to $17,500 in federal student loan forgiveness after 5 years of servic
 
-The Brunner Test -- Student loans can be discharged in bankruptcy under the Brunner test for undue hardship. Understand the three-prong test
+The Brunner Test - Student loans can be discharged in bankruptcy under the Brunner test for undue hardship. Understand the three-prong test
 
-Total and Permanent Disability Discharge -- Borrowers who are totally and permanently disabled can have their federal student loans discharged. Requirements, applic
+Total and Permanent Disability Discharge - Borrowers who are totally and permanently disabled can have their federal student loans discharged. Requirements, applic
 
-Closed School Discharge -- If your school closed while you were enrolled or shortly after withdrawal, you may qualify for full student loan dischar
+Closed School Discharge - If your school closed while you were enrolled or shortly after withdrawal, you may qualify for full student loan dischar
 
-Borrower Defense to Repayment -- If your school misled you about graduation rates, job placement, or program quality, you may qualify for federal student
+Borrower Defense to Repayment - If your school misled you about graduation rates, job placement, or program quality, you may qualify for federal student
 
-The SAVE Plan -- The SAVE plan replaced REPAYE with lower payments and faster forgiveness for some borrowers. How it works, who benefits,
+The SAVE Plan - The SAVE plan replaced REPAYE with lower payments and faster forgiveness for some borrowers. How it works, who benefits,
 
-Student Loan Forgiveness Status -- Current status of all student loan forgiveness programs, legal challenges, and what borrowers should do right now. Updat
+Student Loan Forgiveness Status - Current status of all student loan forgiveness programs, legal challenges, and what borrowers should do right now. Updat
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -904,7 +906,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -952,7 +954,7 @@ bankruptcystudentloans.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1095,6 +1097,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 studentloanforgive.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1108,9 +1111,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Public Service Loan Forgiveness (PSLF) -- Complete Guide -- Student Loan Forgiveness
+## Public Service Loan Forgiveness (PSLF) - Complete Guide - Student Loan Forgiveness
 Source: https://studentloanforgive.org/pslf-program.html
 
 Public Service Loan Forgiveness (PSLF)
@@ -1129,7 +1134,7 @@ Common Mistakes That Disqualify Payments
 
 Wrong loan type: Only Direct Loans qualify. FFEL loans and Perkins loans must be consolidated into a Direct Consolidation Loan first (pre-consolidation payments don't count unless under the temporary waiver). Wrong repayment plan: Standard, graduated, and extended plans don't produce qualifying payments. You must be on IBR, ICR, PAYE, or SAVE. Not full-time: You must work at least 30 hours per week (or whatever the employer considers full-time) for a qualifying employer.
 
-Critical step: Submit the Employment Certification Form (ECF) annually. This verifies your qualifying employer and tracks your payments. Don't wait until 120 payments -- submit annually so errors are caught early.
+Critical step: Submit the Employment Certification Form (ECF) annually. This verifies your qualifying employer and tracks your payments. Don't wait until 120 payments - submit annually so errors are caught early.
 
 Applying for PSLF
 
@@ -1145,7 +1150,7 @@ As of 2025, over 900,000 borrowers have received PSLF forgiveness totaling over 
 
 Does the type of public service job matter?
 
-Any full-time position at a qualifying employer counts -- you don't need to be a teacher, social worker, or first responder. An accountant at a city government, a janitor at a nonprofit hospital, or a programmer at a federal agency all qualify equally.
+Any full-time position at a qualifying employer counts - you don't need to be a teacher, social worker, or first responder. An accountant at a city government, a janitor at a nonprofit hospital, or a programmer at a federal agency all qualify equally.
 
 What happens to my PSLF progress if I change jobs?
 
@@ -1179,7 +1184,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1271,7 +1276,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## The SAVE Plan -- Newest Income-Driven Repayment Option -- Student Loan Forgiveness
+## The SAVE Plan - Newest Income-Driven Repayment Option - Student Loan Forgiveness
 Source: https://studentloanforgive.org/save-plan.html
 
 The SAVE Plan
@@ -1282,13 +1287,13 @@ Home » The SAVE Plan
 
 How SAVE Differs From Other IDR Plans
 
-SAVE (Saving on a Valuable Education) replaced REPAYE in 2024 with significant improvements: payments based on 5% of discretionary income for undergraduate loans (10% for graduate, blended for mixed). Higher income protection threshold: 225% of the federal poverty level is excluded from income (up from 150%). Interest subsidy: If your payment doesn't cover accruing interest, the government covers the remaining interest -- your balance never grows. Shorter forgiveness: 10 years for original balances of $12,000 or less (increasing by 1 year for each additional $1,000).
+SAVE (Saving on a Valuable Education) replaced REPAYE in 2024 with significant improvements: payments based on 5% of discretionary income for undergraduate loans (10% for graduate, blended for mixed). Higher income protection threshold: 225% of the federal poverty level is excluded from income (up from 150%). Interest subsidy: If your payment doesn't cover accruing interest, the government covers the remaining interest - your balance never grows. Shorter forgiveness: 10 years for original balances of $12,000 or less (increasing by 1 year for each additional $1,000).
 
 For many borrowers, SAVE produces significantly lower payments than IBR or PAYE. A single borrower earning $35,000 with $30,000 in undergraduate loans would pay approximately $50/month on SAVE vs. $150+/month on older IDR plans.
 
 Legal Challenges and Current Status
 
-SAVE has faced legal challenges from states and loan servicers arguing the Department of Education exceeded its authority. As of 2025-2026, check studentaid.gov for the current status of SAVE -- court injunctions have periodically paused enrollment or certain features. If SAVE is blocked, borrowers are typically placed on interest-free forbearance until the legal issues resolve.
+SAVE has faced legal challenges from states and loan servicers arguing the Department of Education exceeded its authority. As of 2025-2026, check studentaid.gov for the current status of SAVE - court injunctions have periodically paused enrollment or certain features. If SAVE is blocked, borrowers are typically placed on interest-free forbearance until the legal issues resolve.
 
 Regardless of SAVE's status, other IDR plans (IBR, PAYE, ICR) remain available. If SAVE is paused, enroll in an alternative IDR plan to continue building toward forgiveness. All IDR plans offer forgiveness after 20-25 years.
 
@@ -1310,7 +1315,7 @@ If SAVE is permanently invalidated, the Department of Education would likely tra
 
 Does SAVE work with PSLF?
 
-Yes. SAVE payments count toward the 120 qualifying PSLF payments, just like other IDR plans. For public service workers, SAVE plus PSLF can be especially powerful -- 10 years of very low payments followed by tax-free forgiveness of the remaining balance.
+Yes. SAVE payments count toward the 120 qualifying PSLF payments, just like other IDR plans. For public service workers, SAVE plus PSLF can be especially powerful - 10 years of very low payments followed by tax-free forgiveness of the remaining balance.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1340,7 +1345,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1424,7 +1429,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Teacher Loan Forgiveness -- Up to $17,500 for Qualifying Educators -- Student Loan Forgiveness
+## Teacher Loan Forgiveness - Up to $17,500 for Qualifying Educators - Student Loan Forgiveness
 Source: https://studentloanforgive.org/teacher-loan-forgiveness.html
 
 Teacher Loan Forgiveness
@@ -1441,13 +1446,13 @@ Forgiveness amounts: Up to $17,500 for highly qualified math, science, or specia
 
 Teacher Forgiveness vs. PSLF
 
-Teachers can use both programs, but the 5 years of service used for Teacher Loan Forgiveness do not also count toward the 120 PSLF payments. The optimal strategy depends on your loan balance: if your balance is under $17,500, Teacher Loan Forgiveness may be sufficient. If your balance is larger, skip Teacher Loan Forgiveness and go straight to PSLF -- you'll reach 120 payments sooner.
+Teachers can use both programs, but the 5 years of service used for Teacher Loan Forgiveness do not also count toward the 120 PSLF payments. The optimal strategy depends on your loan balance: if your balance is under $17,500, Teacher Loan Forgiveness may be sufficient. If your balance is larger, skip Teacher Loan Forgiveness and go straight to PSLF - you'll reach 120 payments sooner.
 
 Strategy for large balances: apply for Teacher Loan Forgiveness after 5 years to reduce the balance, then pursue PSLF for the remainder (but you'll need 120 additional qualifying payments since the Teacher Loan Forgiveness years don't count toward PSLF).
 
 Application Process
 
-Step 1: Verify your school is in the Teacher Cancellation Low Income Directory (check annually -- schools can enter or leave the list). Step 2: Complete 5 consecutive years of teaching. Step 3: Submit the Teacher Loan Forgiveness Application to your loan servicer. Step 4: The servicer verifies your employment and forgives the qualifying amount. Processing typically takes 60-90 days.
+Step 1: Verify your school is in the Teacher Cancellation Low Income Directory (check annually - schools can enter or leave the list). Step 2: Complete 5 consecutive years of teaching. Step 3: Submit the Teacher Loan Forgiveness Application to your loan servicer. Step 4: The servicer verifies your employment and forgives the qualifying amount. Processing typically takes 60-90 days.
 
 Keep records of your employment throughout the 5 years: contracts, pay stubs, and employment verification letters. Some servicers have been known to challenge applications, so documentation is important.
 
@@ -1493,7 +1498,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1577,7 +1582,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Total and Permanent Disability (TPD) Student Loan Discharge -- Student Loan Forgiveness
+## Total and Permanent Disability (TPD) Student Loan Discharge - Student Loan Forgiveness
 Source: https://studentloanforgive.org/total-disability-discharge.html
 
 Total and Permanent Disability Discharge
@@ -1590,7 +1595,7 @@ Eligibility
 
 You qualify for TPD discharge if you're totally and permanently disabled as documented by: a physician certification stating you're unable to engage in substantial gainful activity due to a physical or mental impairment that can be expected to result in death, last continuously for at least 60 months, or is of indeterminate duration. Alternatively: an SSA disability determination (SSDI or SSI), or a VA disability rating of 100% or TDIU (Total Disability Individual Unemployability).
 
-VA and SSA determinations are the easiest path -- the Department of Education accepts these directly without additional medical documentation. Physician certification requires a specific form and is subject to more scrutiny.
+VA and SSA determinations are the easiest path - the Department of Education accepts these directly without additional medical documentation. Physician certification requires a specific form and is subject to more scrutiny.
 
 Application Process
 
@@ -1646,7 +1651,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1730,10 +1735,82 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
+## Privacy Policy - studentloanforgive.org
+Source: https://studentloanforgive.org/privacy.html
+
+studentloanforgive.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
 ## Additional FAQ Pages
 
 
-### How does Public Service Loan Forgiveness work? -- Student Loan Forgiveness Guide
+### How does Public Service Loan Forgiveness work? - Student Loan Forgiveness Guide
 Source: https://studentloanforgive.org/paa/how-does-public-service-loan-forgiveness-work.html
 
 Skip to content
@@ -1749,7 +1826,7 @@ People Also Ask
 
 How does Public Service Loan Forgiveness work?
 
-PSLF forgives the remaining balance on Direct Loans after you make 120 qualifying monthly payments (10 years) while working full-time for a qualifying employer -- government agencies, 501(c)(3) nonprofits, or certain other public service organizations. The forgiven amount is tax-free.
+PSLF forgives the remaining balance on Direct Loans after you make 120 qualifying monthly payments (10 years) while working full-time for a qualifying employer - government agencies, 501(c)(3) nonprofits, or certain other public service organizations. The forgiven amount is tax-free.
 
 Public Service Loan Forgiveness is one of the most valuable student loan programs available, but it requires careful compliance with specific requirements.
 
@@ -1803,7 +1880,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### Common Questions -- Student Loan Forgiveness Guide
+### Common Questions - Student Loan Forgiveness Guide
 Source: https://studentloanforgive.org/paa/index.html
 
 studentloanforgive.org
@@ -1819,6 +1896,24 @@ How does Public Service Loan Forgiveness work?
 
 Will my student loans be forgiven after 20 years?
 
+Understanding Your Bankruptcy Options
+
+Bankruptcy law provides several paths to financial relief, each designed for different situations. Chapter 7 offers a fresh start through liquidation of non-exempt assets and discharge of qualifying debts, typically completed in 3 to 6 months. Chapter 13 allows you to keep your property while repaying debts over 3 to 5 years. Chapter 11 provides reorganization options for businesses and high-debt individuals. Understanding which chapter fits your situation requires analyzing your income, assets, debts, and financial goals.
+
+Frequently Asked Questions
+
+What are the different types of bankruptcy?
+
+The most common types are Chapter 7 (liquidation for individuals and businesses), Chapter 13 (repayment plan for individuals with regular income), and Chapter 11 (reorganization for businesses). Each chapter has different eligibility requirements, timelines, and outcomes. A bankruptcy attorney or legal aid organization can help determine which option fits your situation.
+
+How much does it cost to file bankruptcy?
+
+Court filing fees are $338 for Chapter 7 and $313 for Chapter 13 as of 2026. Attorney fees vary by location and complexity but typically range from $1,000 to $2,500 for Chapter 7 and $2,500 to $5,000 for Chapter 13. Fee waivers are available for filers below 150% of the federal poverty guidelines.
+
+Will bankruptcy stop creditor calls and lawsuits?
+
+Yes. The automatic stay under 11 U.S.C. Section 362 takes effect immediately when you file and stops most collection activities, including phone calls, letters, lawsuits, wage garnishments, and foreclosure or repossession actions. Creditors who violate the stay can be held in contempt of court.
+
 Part of the Bankruptcy Transparency Network
 
 1328f.com
@@ -1826,7 +1921,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### Will my student loans be forgiven after 20 years? -- Student Loan Forgiveness Guide
+### Will my student loans be forgiven after 20 years? - Student Loan Forgiveness Guide
 Source: https://studentloanforgive.org/paa/will-my-student-loans-be-forgiven-after-20-years.html
 
 Skip to content
