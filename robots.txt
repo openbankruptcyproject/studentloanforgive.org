@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://studentloanforgive.org/sitemap.xml
+
+Sitemap: https://studentloanforgive.org/sitemapindex.xml
