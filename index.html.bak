@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Student Loan Forgiveness - Every Path to Relief [2026]</title>
+<meta content="Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates. 2026..." name="description"/>
+<meta content="student loan forgiveness, PSLF, student loan discharge, income driven repayment, student loan relief" name="keywords"/>
+<link href="https://studentloanforgive.org/" rel="canonical"/>
+<link href="https://studentloanforgive.org/" hreflang="en" rel="alternate"/>
+<link href="https://studentloanforgive.org/es.html" hreflang="es" rel="alternate"/>
+<meta content="Student Loan Forgiveness - Every Path to Relief [2026]" property="og:title"/>
+<meta content="Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates. 2026..." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://studentloanforgive.org/" property="og:url"/>
+<meta content="studentloanforgive.org" property="og:site_name"/>
+<meta content="https://studentloanforgive.org/og-image.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Student Loan Forgiveness - Every Path to Relief [2026]" name="twitter:title"/>
+<meta content="Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates. 2026..." name="twitter:description"/>
+<meta content="https://studentloanforgive.org/og-image.svg" name="twitter:image"/>
+<meta content="#0d1117" name="theme-color"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebSite", "name": "studentloanforgive.org", "url": "https://studentloanforgive.org/", "description": "Student loan forgiveness programs compared: PSLF, IDR forgiveness, disability discharge, and bankruptcy. Eligibility rules and timelines. Updated 2026.", "provider": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Student Loan Forgiveness - Every Path to Student Loan Relief Explained", "datePublished": "2026-03-31", "dateModified": "2026-03-31", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}}
+</script>
+<script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is student loan forgiveness taxable?", "acceptedAnswer": {"@type": "Answer", "text": "PSLF forgiveness is always tax-free. IDR forgiveness is normally taxable as income, but the American Rescue Plan Act suspended this through at least 2025. TPD and closed school discharges are currently tax-free under temporary rules."}}, {"@type": "Question", "name": "Can private student loans be forgiven?", "acceptedAnswer": {"@type": "Answer", "text": "Private student loans are not eligible for any federal forgiveness programs. Your options are limited to negotiation with the lender, refinancing, or discharge through bankruptcy by proving undue hardship."}}, {"@type": "Question", "name": "How do I apply for PSLF?", "acceptedAnswer": {"@type": "Answer", "text": "Submit the PSLF Employment Certification Form annually at studentaid.gov. After 120 qualifying payments, submit the PSLF Application. If denied, you have the right to request reconsideration. The PSLF Help Tool on studentaid.gov can determine employer eligibility."}}]}
+    </script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "name": "Student Loan Forgiveness - Every Path to Student Loan Relief Explained", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://studentloanforgive.org/"}
+</script>
+<style>
+:root { --bg:#0d1117; --surface:#151b23; --border:#30363d; --text:#e6edf3;
+  --text-muted:#9eaab6; --accent:#58a6ff; --green:#3fb950; --red:#f85149;
+  --orange:#d29922; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.7}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}
+header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}
+header h1{font-size:2.2rem;margin-bottom:.5rem}
+header .subtitle{color:var(--text-muted);font-size:1.1rem}
+main{padding:0}
+.content-section{background:var(--surface);border:1px solid var(--border);
+  border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}
+.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;
+  border-bottom:1px solid var(--border);padding-bottom:.5rem}
+.content-section p{margin-bottom:1rem;color:var(--text)}
+.content-section p:last-child{margin-bottom:0}
+.content-section strong{color:var(--text)}
+.faq-section{margin:2rem 0}
+.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}
+.faq-item{background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}
+.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}
+.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}
+.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);
+  border:2px solid var(--accent);border-radius:12px;padding:2rem;
+  text-align:center;margin:2rem 0}
+.cta-box p{font-size:1.1rem;margin-bottom:1rem}
+.btn{display:inline-block;background:var(--accent);color:#0d1117;
+  padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}
+.btn:hover{opacity:.9;text-decoration:none}
+.about-data{background:var(--surface);border:1px solid var(--border);
+  border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}
+.network-footer{text-align:center;padding:2rem 1rem;margin-top:2rem;
+  border-top:1px solid var(--border);font-size:.85rem;color:var(--text-muted)}
+.network-footer strong{color:var(--text)}
+.network-footer .links{margin:1rem 0;line-height:2}
+.network-footer .links a{margin:0 .5rem}
+.network-footer .disclaimer{font-size:.75rem;margin-top:1rem}
+@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}
+  header h1{font-size:1.6rem}}
+
+  /* Skip navigation link (accessibility) */
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 0;
+    background: var(--accent, #58a6ff);
+    color: #000;
+    padding: 0.5rem 1.5rem;
+    z-index: 10000;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border-radius: 0 0 6px 0;
+  }
+  .skip-link:focus {
+    top: 0;
+  }
+</style>
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Open Bankruptcy Project",
+      "item": "https://studentloanforgive.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Student Loan Forgiveness - Every Path to Student Loan Relief Explained",
+      "item": "https://studentloanforgive.org/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SiteNavigationElement",
+      "name": "BTN Network",
+      "url": [
+        "https://1328f.com",
+        "https://1328f.org",
+        "https://automaticstay.org",
+        "https://341meeting.org",
+        "https://523a.org",
+        "https://109g.org",
+        "https://727a8.com",
+        "https://meanstest.org",
+        "https://chapter7vs13.org",
+        "https://howtofilebankruptcy.org"
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<!-- aggressive-interlink:lang-en -->
+<div style="background:#161b22;border-bottom:1px solid #30363d;padding:8px 16px;text-align:center;font-size:0.85em"><a href="/es.html" style="color:#58a6ff;text-decoration:none">🌐 Esta pagina esta disponible en Espanol</a></div>
+<header>
+<h1>Student Loan Forgiveness</h1>
+<p class="subtitle">Every Path to Student Loan Relief Explained</p>
+</header>
+<div class="container">
+<main id="main-content">
+<div class="content-section">
+<h2>Student Loan Forgiveness Programs Overview</h2>
+<p>Student loan forgiveness eliminates some or all of your federal <a href="https://bankruptcystudentloans.org/" title="student loans">student loan debt</a>. Multiple programs exist, each with different eligibility requirements and timelines. The most common: Public Service Loan Forgiveness (PSLF), Income-Driven Repayment (IDR) forgiveness, Total and Permanent Disability (TPD) <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, Closed School <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, and bankruptcy discharge (which is harder but not impossible).</p><p>Private <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a> are NOT eligible for federal forgiveness programs. Your options for private loans are limited to negotiation, refinancing, or <a href="https://brunnertest.org">bankruptcy discharge under the Brunner test</a>.</p>
+</div>
+<div class="content-section">
+<h2>Public Service Loan Forgiveness (PSLF)</h2>
+<p>PSLF forgives the remaining balance on Direct Loans after 120 qualifying monthly payments (10 years) while working full-time for a qualifying employer. Qualifying employers: federal, state, or local government; 501(c)(3) nonprofits; tribal organizations; AmeriCorps/Peace Corps. Private companies, for-profit hospitals, and partisan political organizations do not qualify.</p><p>Requirements: Direct Loans only (consolidate FFEL/Perkins into Direct), enrolled in an income-driven <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>, 120 qualifying payments (need not be consecutive), and full-time employment (30+ hours/week) at qualifying employer during each payment. Submit the PSLF Employment Certification Form annually.</p>
+</div>
+<div class="content-section">
+<h2>Income-Driven Repayment Forgiveness</h2>
+<p>Under IDR plans, remaining balances are forgiven after 20-25 years of qualifying payments. Plans include: <strong>SAVE (Saving on a Valuable Education)</strong> - 10% discretionary income, forgiveness at 20 years (undergraduate) or 25 years (graduate). <strong>PAYE (Pay As You Earn)</strong> - 10% discretionary income, 20-year forgiveness. <strong>IBR (Income-Based Repayment)</strong> - 10-15% discretionary income, 20-25 year forgiveness. <strong>ICR (Income-Contingent Repayment)</strong> - 20% discretionary income, 25-year forgiveness.</p><p>Important tax consideration: IDR forgiveness may be treated as taxable income (though this is suspended through 2025 under ARPA). PSLF forgiveness is always tax-free.</p>
+</div>
+<div class="content-section">
+<h2>Total and Permanent Disability Discharge</h2>
+<p>If you are totally and permanently disabled, you can have your federal student loans discharged. Three ways to qualify: <strong>SSA determination</strong> - if you receive SSDI/SSI and your next disability review is 5-7 years away. <strong>VA determination</strong> - VA rating of 100% disabled or unemployable. <strong>Physician certification</strong> - a doctor certifies you cannot engage in substantial gainful activity.</p><p>After discharge, there is a 3-year monitoring period. If your income exceeds the poverty line or you take out new student loans during monitoring, the discharge can be reversed. <a href="https://disabilityanddebt.org">Learn more about disability and debt</a>.</p>
+</div>
+<div class="content-section">
+<h2>Closed School Discharge</h2>
+<p>If your school closed while you were enrolled or within 180 days of your withdrawal, you may be eligible for a full discharge of your federal student loans for that school. This also applies retroactively to older closures. You will also receive a refund of any payments made on those loans.</p><p>Recent expansion: the Department of Education has approved group discharges for many closed schools, sometimes reaching back decades. Check studentaid.gov for a list of approved group discharges.</p>
+</div>
+<div class="content-section">
+<h2>Borrower Defense to Repayment</h2>
+<p>If your school engaged in fraud or certain misconduct, you can apply for Borrower Defense discharge. Common grounds: the school misrepresented job placement rates, program costs, or accreditation; the school was involved in fraud; or the school violated certain state laws.</p><p>This has been used successfully against for-profit schools like Corinthian Colleges, ITT Tech, DeVry, and others. Applications are submitted to the Department of Education, which has a significant backlog. Processing times currently range from months to years.</p>
+</div>
+<div class="content-section">
+<h2>Student Loan Bankruptcy Discharge</h2>
+<p>Contrary to popular belief, student loans can be discharged in bankruptcy - it is just harder. You must demonstrate "<a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>" in an adversary proceeding (a separate lawsuit within the bankruptcy). Most courts use the <a href="https://brunnertest.org">Brunner test</a>: you cannot maintain a minimal standard of living, your situation is likely to persist, and you have made good-faith efforts to repay.</p><p>The Department of Justice issued new guidance in 2022 making it easier for government attorneys to recommend discharge in qualifying cases. Some courts are also moving away from the strict <a href="https://brunnertest.org/" title="Brunner test">Brunner test</a>. <a href="https://studentloandefault.org">If you're in default</a>, understanding your options is critical.</p>
+</div>
+<div class="content-section">
+<h2>State-Level Forgiveness Programs</h2>
+<p>Many states offer student loan forgiveness for specific professions: teachers in shortage areas, healthcare workers in underserved communities, lawyers in public interest, social workers, and first responders. Amounts vary from $5,000 to $50,000+. Check your state's higher education agency for current programs.</p><p>Military service also provides multiple forgiveness paths: active duty, Reserve/Guard, and the GI Bill. The NHSC (National Health Service Corps) offers up to $50,000 for healthcare providers in underserved areas.</p>
+</div>
+<div class="faq-section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<h3>Is student loan forgiveness taxable?</h3>
+<p>PSLF forgiveness is always tax-free. IDR forgiveness is normally taxable as income, but the American Rescue Plan Act suspended this through at least 2025. TPD and closed school discharges are currently tax-free under temporary rules.</p>
+</div>
+<div class="faq-item">
+<h3>Can private student loans be forgiven?</h3>
+<p>Private student loans are not eligible for any federal forgiveness programs. Your options are limited to negotiation with the lender, refinancing, or discharge through bankruptcy by proving <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>.</p>
+</div>
+<div class="faq-item">
+<h3>How do I apply for PSLF?</h3>
+<p>Submit the PSLF Employment Certification Form annually at studentaid.gov. After 120 qualifying payments, submit the PSLF Application. If denied, you have the right to request reconsideration. The PSLF Help Tool on studentaid.gov can determine employer eligibility.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Explore Our Guides</h2>
+<p><a href="/pslf-program.html"><strong>Public Service Loan Forgiveness (PSLF)</strong></a> - Everything you need to know about PSLF. Qualifying employers, eligible payments, application process, and the temporary </p>
+<p><a href="/idr-forgiveness.html"><strong>IDR Loan Forgiveness</strong></a> - IDR plans forgive remaining balances after 20-25 years of payments. Understand which plans qualify, the payment count, a</p>
+<p><a href="/teacher-loan-forgiveness.html"><strong>Teacher Loan Forgiveness</strong></a> - Teachers at low-income schools may qualify for up to $17,500 in federal student loan forgiveness after 5 years of servic</p>
+<p><a href="/brunner-test.html"><strong>The Brunner Test</strong></a> - Student loans can be discharged in bankruptcy under the <a href="https://brunnertest.org/" title="Brunner test">Brunner test</a> for <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>. Understand the three-prong test</p>
+<p><a href="/total-disability-discharge.html"><strong>Total and Permanent Disability Discharge</strong></a> - Borrowers who are totally and permanently disabled can have their federal student loans discharged. Requirements, applic</p>
+<p><a href="/closed-school-discharge.html"><strong>Closed School Discharge</strong></a> - If your school closed while you were enrolled or shortly after withdrawal, you may qualify for full student loan dischar</p>
+<p><a href="/borrower-defense.html"><strong>Borrower Defense to Repayment</strong></a> - If your school misled you about graduation rates, job placement, or program quality, you may qualify for federal student</p>
+<p><a href="/save-plan.html"><strong>The SAVE Plan</strong></a> - The SAVE plan replaced REPAYE with lower payments and faster forgiveness for some borrowers. How it works, who benefits,</p>
+<p><a href="/biden-forgiveness-status.html"><strong>Student Loan Forgiveness Status</strong></a> - Current status of all student loan forgiveness programs, legal challenges, and what borrowers should do right now. Updat</p>
+</div>
+<div class="cta-box">
+<p>Check your bankruptcy discharge eligibility with our free screening tool.</p>
+<a class="btn" href="https://1328f.com?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
+</div>
+<div class="about-data">
+<strong>About This Data:</strong> Content based on federal bankruptcy law (Title 11, U.S. Code)
+    and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+    <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+    This is educational content, not legal advice.
+  </div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://creditcarddebtbankruptcy.org" style="color:#58a6ff;text-decoration:none">Credit Card Debt in Bankruptcy</a></li>
+<li><a href="https://bankruptcytaxes.org" style="color:#58a6ff;text-decoration:none">Taxes in Bankruptcy</a></li>
+<li><a href="https://creditcardforgiveness.org" style="color:#58a6ff;text-decoration:none">Credit Card Forgiveness Options</a></li>
+<li><a href="https://eidlbankruptcy.com" style="color:#58a6ff;text-decoration:none">EIDL Loans in Bankruptcy</a></li>
+</ul>
+</div>
+
+<!-- browse-by-state-grid:START -->
+<div id="browse-by-state-grid" style="max-width:860px;margin:2rem auto;padding:1.5rem 2rem;background:#161b22;border:1px solid #30363d;border-radius:12px">
+<h2 style="color:#58a6ff;font-size:1.35rem;margin-bottom:.75rem;border-bottom:1px solid #30363d;padding-bottom:.5rem">Browse by State: Forgiveness Paths by State</h2>
+<p style="color:#9eaab6;font-size:.92rem;margin-bottom:1rem">State-specific rules, federal court data, and practical guidance for every state and DC. 51 pages total.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.4rem">
+<a href="/states/alabama.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Alabama</a><a href="/states/alaska.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Alaska</a><a href="/states/arizona.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Arizona</a><a href="/states/arkansas.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Arkansas</a><a href="/states/california.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">California</a><a href="/states/colorado.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Colorado</a><a href="/states/connecticut.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Connecticut</a><a href="/states/delaware.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Delaware</a><a href="/states/district-of-columbia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">District of Columbia</a><a href="/states/florida.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Florida</a><a href="/states/georgia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Georgia</a><a href="/states/hawaii.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Hawaii</a><a href="/states/idaho.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Idaho</a><a href="/states/illinois.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Illinois</a><a href="/states/indiana.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Indiana</a><a href="/states/iowa.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Iowa</a><a href="/states/kansas.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Kansas</a><a href="/states/kentucky.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Kentucky</a><a href="/states/louisiana.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Louisiana</a><a href="/states/maine.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Maine</a><a href="/states/maryland.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Maryland</a><a href="/states/massachusetts.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Massachusetts</a><a href="/states/michigan.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Michigan</a><a href="/states/minnesota.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Minnesota</a><a href="/states/mississippi.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Mississippi</a><a href="/states/missouri.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Missouri</a><a href="/states/montana.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Montana</a><a href="/states/nebraska.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Nebraska</a><a href="/states/nevada.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Nevada</a><a href="/states/new-hampshire.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New Hampshire</a><a href="/states/new-jersey.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New Jersey</a><a href="/states/new-mexico.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New Mexico</a><a href="/states/new-york.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New York</a><a href="/states/north-carolina.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">North Carolina</a><a href="/states/north-dakota.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">North Dakota</a><a href="/states/ohio.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Ohio</a><a href="/states/oklahoma.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Oklahoma</a><a href="/states/oregon.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Oregon</a><a href="/states/pennsylvania.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Pennsylvania</a><a href="/states/rhode-island.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Rhode Island</a><a href="/states/south-carolina.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">South Carolina</a><a href="/states/south-dakota.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">South Dakota</a><a href="/states/tennessee.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Tennessee</a><a href="/states/texas.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Texas</a><a href="/states/utah.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Utah</a><a href="/states/vermont.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Vermont</a><a href="/states/virginia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Virginia</a><a href="/states/washington.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Washington</a><a href="/states/west-virginia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">West Virginia</a><a href="/states/wisconsin.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Wisconsin</a><a href="/states/wyoming.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Wyoming</a>
+</div>
+</div>
+<!-- browse-by-state-grid:END -->
+</main>
+</div>
+<!-- RECAP Counter -->
+<div style="text-align:center;margin:1.5rem auto;max-width:600px">
+<a href="https://openbankruptcyproject.org/recap.html" style="display:inline-block;background:#0d1117;border:1px solid #238636;color:#3fb950;padding:0.6rem 1.5rem;border-radius:6px;font-weight:700;font-size:0.95rem;text-decoration:none;letter-spacing:-0.01em">462+ Court Documents Freed from PACER</a>
+<p style="color:#7d8590;font-size:0.78rem;margin-top:0.4rem">We buy federal court records and donate them to RECAP so no one has to pay. <a href="https://openbankruptcyproject.org/recap.html" style="color:#58a6ff;text-decoration:none">Browse the archive →</a></p>
+</div>
+<!-- Transparency Counter -->
+<div style="text-align:center;margin:0.5rem auto 1.5rem;max-width:600px">
+<p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on student loans and bankruptcy:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 523(a)(8)</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - student loan exception</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://studentaid.gov/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Federal Student Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">Dept. of Education</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/civil/consumer-protection-branch/student-loan-bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">DOJ Student Loan Guidance</a><br/><span style="color:#7d8590;font-size:0.8rem">2022 guidance on undue hardship</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/consumer-tools/student-loans/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB Student Loan Resources</a><br/><span style="color:#7d8590;font-size:0.8rem">CFPB tools</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.nclc.org/issues/student-loan-borrower-assistance/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">NCLC Student Loans</a><br/><span style="color:#7d8590;font-size:0.8rem">National Consumer Law Center</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=brunner+%22undue+hardship%22+student+loan+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Brunner Test Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://studentloandefault.org?utm_source=studentloanforgive.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Student Loan Default</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">studentloandefault.org →</p>
+</a>
+<a class="related-card" href="https://1099cdebt.com?utm_source=studentloanforgive.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">1099-C Cancellation of Debt</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">1099cdebt.com →</p>
+</a>
+<a class="related-card" href="https://averagecreditcarddebt.org?utm_source=studentloanforgive.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Average Credit Card Debt Stats</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">averagecreditcarddebt.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcystudentloans.org?utm_source=studentloanforgive.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Student Loans in Bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Can student loans be discharged?</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcystudentloans.org →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next - we built the answers.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://chapter7vs13.org?utm_source=studentloanforgive.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 vs Chapter 13</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Which chapter addresses your type of debt?</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">chapter7vs13.org →</p>
+</a>
+<a class="related-card" href="https://howmuchdoesbankruptcycost.com?utm_source=studentloanforgive.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Much Does It Cost?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Filing fees and attorney costs by chapter</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howmuchdoesbankruptcycost.com →</p>
+</a>
+<a class="related-card" href="https://automaticstay.org?utm_source=studentloanforgive.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">The Automatic Stay</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">How filing immediately stops collections</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">automaticstay.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcydischarge.org?utm_source=studentloanforgive.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How Discharge Works</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Which debts get wiped and which survive</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcydischarge.org →</p>
+</a>
+</div>
+</div>
+<!-- /USER JOURNEY -->
+<!-- /RELATED GUIDES -->
+<!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.25rem 1.5rem;max-width:700px;margin:2rem auto;text-align:center">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">State Bankruptcy Guides</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.</p>
+<p style="margin:0 0 0.75rem;font-size:0.85rem;line-height:1.8"><a href="https://bankruptcyexemptionsbystate.com/states/california.html" style="color:#58a6ff;white-space:nowrap">California</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/texas.html" style="color:#58a6ff;white-space:nowrap">Texas</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/florida.html" style="color:#58a6ff;white-space:nowrap">Florida</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html" style="color:#58a6ff;white-space:nowrap">New York</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/illinois.html" style="color:#58a6ff;white-space:nowrap">Illinois</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/ohio.html" style="color:#58a6ff;white-space:nowrap">Ohio</a></p>
+<a href="https://bankruptcyexemptionsbystate.com/states/" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse All 50 State Guides →</a>
+</div>
+<!-- /STATE GUIDES CROSS-LINK -->
+<!-- aggressive-interlink:glossary -->
+<div style="text-align:center;padding:0.75rem 0;margin-top:1rem"><a href="https://whathappensinbankruptcy.com/glossary/" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">📖 Bankruptcy Glossary</a> <span style="color:#7d8590;font-size:0.85rem">-- 61 terms explained</span></div>
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+<div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+<p id="geo-heading" style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">Filing in Your State?</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+<a href="https://bankruptcyexemptionsbystate.com/states/?utm_source=studentloanforgive.org&amp;utm_medium=geo-card&amp;utm_campaign=btn-funnel" id="geo-link" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions →</a>
+</div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'studentloanforgive.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
+<!-- PAA SECTION (build_paa_pages.py) -->
+<div style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#111;border:1px solid #333;border-radius:8px">
+<p style="color:#fff;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">People Also Ask</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:8px"><a href="/paa/how-does-public-service-loan-forgiveness-work.html" style="color:#60a5fa;font-size:14px;text-decoration:none">How does Public Service Loan Forgiveness work?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/will-my-student-loans-be-forgiven-after-20-years.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Will my student loans be forgiven after 20 years?</a></li>
+</ul>
+<p style="margin-top:12px"><a href="/paa/" style="color:#888;font-size:13px">View all questions →</a></p>
+</div>
+<!-- /PAA SECTION -->
+<!-- OBP Contact Form - deployed by deploy_btn_contact_form.py -->
+<div id="obp-help-form" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.5rem;margin:2rem auto;max-width:600px">
+<h3 style="color:#c9d1d9;margin-top:0;margin-bottom:0.5rem">Have a Question?</h3>
+<p style="color:#8b949e;font-size:0.85rem;margin-bottom:1rem">
+    Open Bankruptcy Project provides free educational information. We are not a law firm.
+    Nothing on this site constitutes legal advice. For advice about your specific situation,
+    consult a licensed attorney.
+  </p>
+<form id="obp-help-submit" style="margin:0">
+<input name="source" type="hidden" value="studentloanforgive.org"/>
+<input name="topic" type="hidden" value="Site Question"/>
+<input aria-label="Name (optional)" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="text"/>
+<input aria-label="Email" name="email" placeholder="Email" required="" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="email"/>
+<select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
+<option value="">Select your state...</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="VI">U.S. Virgin Islands</option>
+</select>
+<textarea name="message" placeholder="Your question..." required="" rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
+<label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
+<input aria-label="checkbox" required="" style="margin-top:2px;accent-color:#bf3989" type="checkbox"/>
+      I understand this is educational information, not legal advice.
+    </label>
+<button onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" type="submit">Submit Question</button>
+</form>
+<p id="obp-help-thanks" style="display:none;color:#3fb950;font-weight:600;margin:1rem 0 0">Thank you! We typically respond within one business day.</p>
+<script>
+  document.getElementById('obp-help-submit').addEventListener('submit',function(e){
+    e.preventDefault();var f=this,b=f.querySelector('button[type=submit]');
+    b.disabled=true;b.textContent='Sending...';
+    var d={name:f.querySelector('[name=name]').value,email:f.querySelector('[name=email]').value,
+      state:f.querySelector('[name=state]').value,
+      message:f.querySelector('[name=message]').value,
+      topic:'Site Question ('+f.querySelector('[name=source]').value+')'};
+    fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+    .then(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'})
+    .catch(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'});
+  });
+  </script>
+</div>
+<!-- /OBP Contact Form -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=studentloanforgive.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=studentloanforgive.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=studentloanforgive.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="https://1328f.com?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
+<a href="https://openbankruptcyproject.org?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>
+<a href="https://chapter7vs13.org?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Ch.7 vs Ch.13</a>
+<a href="https://howmuchdoesbankruptcycost.com?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Bankruptcy Cost</a>
+<a href="https://automaticstay.org?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Automatic Stay</a>
+<a href="https://341meeting.org?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341 Meeting</a>
+<a href="https://bankruptcyexemptionsbystate.com?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Exemptions by State</a>
+<a href="https://meanstest.org?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Means Test</a>
+<a href="https://filebankruptcywithoutlawyer.com?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">File Without a Lawyer</a>
+<a href="https://rebuildcreditafterbankruptcy.com?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Rebuild Credit</a>
+<a href="https://studentloanforgive.org">studentloanforgive.org</a>
+<a href="https://openbankruptcyproject.org/rule-9037/" rel="noopener">Rule 9037 Compliance Guide</a>
+</div>
+<p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
+    If you need legal help, contact a licensed attorney in your state.
+    A project of the <a href="https://openbankruptcyproject.org?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a>,
+    a 501(c)(3) nonprofit.</p>
+<p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Privacy</a> |
+     <a href="https://openbankruptcyproject.org/terms.html?utm_source=studentloanforgive.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Terms</a></p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+<div style="margin-top:12px;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap"><a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" onmouseout="this.style.borderColor='#30363d'" onmouseover="this.style.borderColor='#58a6ff'" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#1c2128;border:1px solid #30363d;color:#7d8590;padding:4px 12px;border-radius:20px;font-size:0.75rem;text-decoration:none;transition:border-color 0.2s" target="_blank"><svg fill="#3fb950" height="14" viewbox="0 0 16 16" width="14"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 5.97l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 1.06z"></path></svg> Cited by the Federal Rules Committee (26-BK-3)</a></div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
