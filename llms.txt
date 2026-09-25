@@ -1,23 +1,76 @@
 # Student Loan Forgiveness - Every Path to Relief [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates. 2026...
+> Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates.
 
 ## About
 studentloanforgive.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
 - Student Loan Forgiveness Status (2024-2026) - What's Happening Now: https://studentloanforgive.org/biden-forgiveness-status.html
-- Borrower Defense to Repayment - Discharge for School Fraud - Student Loan Forgiveness: https://studentloanforgive.org/borrower-defense.html
-- The Brunner Test - Discharging Student Loans in Bankruptcy - Student Loan Forgiveness: https://studentloanforgive.org/brunner-test.html
-- Closed School Student Loan Discharge - When Your College Shuts Down - Student Loan Forgiveness: https://studentloanforgive.org/closed-school-discharge.html
+- Borrower Defense to Repayment [2026]: 34 CFR 685.222 Federal Loan Discharge for School Misconduct: https://studentloanforgive.org/borrower-defense.html
+- Brunner Test for Student Loan Discharge [2026]: 11 USC 523(a)(8) Adversary Proceeding and Three-Prong Standard: https://studentloanforgive.org/brunner-test.html
+- Closed School Discharge [2026]: 34 CFR 685.214 Federal Loan Discharge When Your School Closes: https://studentloanforgive.org/closed-school-discharge.html
 - Income-Driven Repayment (IDR) Forgiveness - What Happens After 20-25 Years - Student Loan Forgiveness: https://studentloanforgive.org/idr-forgiveness.html
 - Student Loan Forgiveness - Every Path to Relief: https://studentloanforgive.org/
-- Public Service Loan Forgiveness (PSLF) - Complete Guide - Student Loan Forgiveness: https://studentloanforgive.org/pslf-program.html
-- The SAVE Plan - Newest Income-Driven Repayment Option - Student Loan Forgiveness: https://studentloanforgive.org/save-plan.html
-- Teacher Loan Forgiveness - Up to $17,500 for Qualifying Educators - Student Loan Forgiveness: https://studentloanforgive.org/teacher-loan-forgiveness.html
-- Total and Permanent Disability (TPD) Student Loan Discharge - Student Loan Forgiveness: https://studentloanforgive.org/total-disability-discharge.html
+- Public Service Loan Forgiveness [2026]: 34 CFR 685.219 120-Payment Rule and Qualifying Employment: https://studentloanforgive.org/pslf-program.html
+- SAVE Plan Income-Driven Repayment [2026]: 34 CFR 685.209 Income-Based Payment and Loan-Forgiveness Status: https://studentloanforgive.org/save-plan.html
+- Teacher Loan Forgiveness [2026]: 20 USC 1078-10 Up to $17,500 for 5 Years in Title I Schools: https://studentloanforgive.org/teacher-loan-forgiveness.html
+- Total and Permanent Disability Discharge [2026]: 34 CFR 685.213 TPD Discharge for Federal Student Loans: https://studentloanforgive.org/total-disability-discharge.html
 - Privacy Policy: https://studentloanforgive.org/privacy.html
+- About studentloanforgive.org: https://studentloanforgive.org/about.html
+- Student Loan Forgiveness in Alabama [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/alabama.html
+- Student Loan Forgiveness in Alaska [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/alaska.html
+- Student Loan Forgiveness in Arizona [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/arizona.html
+- Student Loan Forgiveness in Arkansas [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/arkansas.html
+- Student Loan Forgiveness in California [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/california.html
+- Student Loan Forgiveness in Colorado [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/colorado.html
+- Student Loan Forgiveness in Connecticut [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/connecticut.html
+- Student Loan Forgiveness in Delaware [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/delaware.html
+- Student Loan Forgiveness in District of Columbia [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/district-of-columbia.html
+- Student Loan Forgiveness in Florida [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/florida.html
+- Student Loan Forgiveness in Georgia [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/georgia.html
+- Student Loan Forgiveness in Hawaii [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/hawaii.html
+- Student Loan Forgiveness in Idaho [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/idaho.html
+- Student Loan Forgiveness in Illinois [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/illinois.html
+- Student Loan Forgiveness by State by State: https://studentloanforgive.org/states/
+- Student Loan Forgiveness in Indiana [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/indiana.html
+- Student Loan Forgiveness in Iowa [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/iowa.html
+- Student Loan Forgiveness in Kansas [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/kansas.html
+- Student Loan Forgiveness in Kentucky [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/kentucky.html
+- Student Loan Forgiveness in Louisiana [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/louisiana.html
+- Student Loan Forgiveness in Maine [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/maine.html
+- Student Loan Forgiveness in Maryland [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/maryland.html
+- Student Loan Forgiveness in Massachusetts [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/massachusetts.html
+- Student Loan Forgiveness in Michigan [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/michigan.html
+- Student Loan Forgiveness in Minnesota [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/minnesota.html
+- Student Loan Forgiveness in Mississippi [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/mississippi.html
+- Student Loan Forgiveness in Missouri [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/missouri.html
+- Student Loan Forgiveness in Montana [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/montana.html
+- Student Loan Forgiveness in Nebraska [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/nebraska.html
+- Student Loan Forgiveness in Nevada [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/nevada.html
+- Student Loan Forgiveness in New Hampshire [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/new-hampshire.html
+- Student Loan Forgiveness in New Jersey [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/new-jersey.html
+- Student Loan Forgiveness in New Mexico [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/new-mexico.html
+- Student Loan Forgiveness in New York [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/new-york.html
+- Student Loan Forgiveness in North Carolina [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/north-carolina.html
+- Student Loan Forgiveness in North Dakota [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/north-dakota.html
+- Student Loan Forgiveness in Ohio [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/ohio.html
+- Student Loan Forgiveness in Oklahoma [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/oklahoma.html
+- Student Loan Forgiveness in Oregon [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/oregon.html
+- Student Loan Forgiveness in Pennsylvania [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/pennsylvania.html
+- Student Loan Forgiveness in Rhode Island [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/rhode-island.html
+- Student Loan Forgiveness in South Carolina [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/south-carolina.html
+- Student Loan Forgiveness in South Dakota [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/south-dakota.html
+- Student Loan Forgiveness in Tennessee [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/tennessee.html
+- Student Loan Forgiveness in Texas [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/texas.html
+- Student Loan Forgiveness in Utah [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/utah.html
+- Student Loan Forgiveness in Vermont [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/vermont.html
+- Student Loan Forgiveness in Virginia [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/virginia.html
+- Student Loan Forgiveness in Washington [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/washington.html
+- Student Loan Forgiveness in West Virginia [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/west-virginia.html
+- Student Loan Forgiveness in Wisconsin [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/wisconsin.html
+- Student Loan Forgiveness in Wyoming [2026]: PSLF, IDR, and State Programs: https://studentloanforgive.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
