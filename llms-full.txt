@@ -1170,21 +1170,21 @@ The 120 payments don't need to be consecutive. If you leave public service and r
 
 Common Mistakes That Disqualify Payments
 
-Wrong loan type: Only Direct Loans qualify. FFEL loans and Perkins loans must be consolidated into a Direct Consolidation Loan first (pre-consolidation payments don't count unless under the temporary waiver). Wrong repayment plan: Graduated and extended plans don't produce qualifying payments unless the monthly payment is at least what the 10-year Standard plan would require. The 10-year Standard plan does qualify, but it leaves little or nothing to forgive, so most PSLF borrowers use an income-driven plan. Not full-time: You must work at least 30 hours per week (or whatever the employer considers full-time) for a qualifying employer.
+Wrong loan type: Only Direct Loans qualify. FFEL loans and Perkins loans must be consolidated into a Direct Consolidation Loan first (pre-consolidation payments don't count unless under the temporary waiver). Wrong repayment plan: Graduated and extended plans don't produce qualifying payments unless the monthly payment is at least what the 10-year Standard plan would require. The 10-year Standard plan does qualify, but it leaves little or nothing to forgive, so most PSLF borrowers use an income-driven plan. Not full-time: You must work at least 30 hours per week (an average of at least 30 hours per week, under 34 CFR 685.219(b)) for a qualifying employer.
 
-Critical step: Submit the Employment Certification Form (ECF) annually. This verifies your qualifying employer and tracks your payments. Don't wait until 120 payments - submit annually so errors are caught early.
+Critical step: Submit the PSLF form annually, through the PSLF Help Tool at StudentAid.gov/pslf. This verifies your qualifying employer and tracks your payments. Don't wait until 120 payments - submit annually so errors are caught early.
 
 Applying for PSLF
 
-Step 1: Confirm your loans are Direct Loans. If not, consolidate. Step 2: Enroll in an IDR plan if not already. Step 3: Submit the Employment Certification Form to MOHELA (the PSLF servicer). Step 4: Continue making payments and recertifying annually. Step 5: After 120 qualifying payments, submit the PSLF application. Forgiveness is typically processed within 60-90 days.
+Step 1: Confirm your loans are Direct Loans. If not, consolidate. Step 2: Enroll in an IDR plan if not already. Step 3: Certify your employment with the PSLF form, using the PSLF Help Tool at StudentAid.gov/pslf. Step 4: Continue making payments and recertifying annually. Step 5: After 120 qualifying payments, submit the PSLF form to request forgiveness.
 
-The forgiven amount under PSLF is tax-free. This is a significant advantage over IDR forgiveness, which may be taxable (currently tax-free through 2025 under the American Rescue Plan, future status uncertain). Understand the tax implications of loan forgiveness.
+The forgiven amount under PSLF is tax-free. This is a significant advantage over IDR forgiveness, which can be federally taxable: the American Rescue Plan exclusion covered discharges through December 31, 2025, and was not extended. Understand the tax implications of loan forgiveness.
 
 Frequently Asked Questions
 
 How many people have actually received PSLF?
 
-As of 2025, over 900,000 borrowers have received PSLF forgiveness totaling over $70 billion. This number increased dramatically after the PSLF Waiver (2021-2022) and subsequent rule changes that fixed historic administration problems.
+Federal Student Aid publishes current PSLF approval counts and dollar totals in its FSA Data Center at StudentAid.gov/data-center.
 
 Does the type of public service job matter?
 
@@ -9487,7 +9487,7 @@ Payments: 120 qualifying payments (do not need to be consecutive)
 
 The Application Process
 
-Submit the PSLF Form annually or whenever you change employers. After 120 qualifying payments, submit the final application. FedLoan Servicing (or MOHELA, the current PSLF servicer) reviews your employment and payment history. Processing takes 60-120 days on average.
+Submit the PSLF Form annually or whenever you change employers. After 120 qualifying payments, submit the final application. Use the PSLF Help Tool at StudentAid.gov/pslf; the Department of Education reviews your employment and payment history.
 
 Common Mistakes to Avoid
 
@@ -9499,7 +9499,7 @@ Having FFEL loans that need to be consolidated first
 
 Pausing payments unnecessarily (forbearance months do not count)
 
-Since the 2022 PSLF waiver and subsequent adjustments, over $62 billion has been forgiven for more than 900,000 borrowers. The program is more accessible than it has ever been.
+Federal Student Aid publishes current PSLF approval counts and dollar totals in its FSA Data Center at StudentAid.gov/data-center.
 
 Related Guides
 
