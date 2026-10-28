@@ -1,7 +1,7 @@
 # Student Loan Forgiveness - Every Path to Relief [2026]
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
-> Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and SAVE plan updates.
+> Complete guide to student loan forgiveness programs: PSLF, IDR, Brunner test, bankruptcy discharge, and repayment plan changes.
 
 ## About
 studentloanforgive.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -11,10 +11,10 @@ studentloanforgive.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Borrower Defense to Repayment [2026]: 34 CFR 685.222 Federal Loan Discharge for School Misconduct: https://studentloanforgive.org/borrower-defense.html
 - Brunner Test for Student Loan Discharge [2026]: 11 USC 523(a)(8) Adversary Proceeding and Three-Prong Standard: https://studentloanforgive.org/brunner-test.html
 - Closed School Discharge [2026]: 34 CFR 685.214 Federal Loan Discharge When Your School Closes: https://studentloanforgive.org/closed-school-discharge.html
-- Income-Driven Repayment (IDR) Forgiveness - What Happens After 20-25 Years - Student Loan Forgiveness: https://studentloanforgive.org/idr-forgiveness.html
+- Income-Driven Repayment (IDR) Forgiveness - What Happens After 20-30 Years - Student Loan Forgiveness: https://studentloanforgive.org/idr-forgiveness.html
 - Student Loan Forgiveness - Every Path to Relief: https://studentloanforgive.org/
 - Public Service Loan Forgiveness [2026]: 34 CFR 685.219 120-Payment Rule and Qualifying Employment: https://studentloanforgive.org/pslf-program.html
-- SAVE Plan Income-Driven Repayment [2026]: 34 CFR 685.209 Income-Based Payment and Loan-Forgiveness Status: https://studentloanforgive.org/save-plan.html
+- SAVE Plan Ended [2026]: What SAVE Borrowers Need to Do Now: https://studentloanforgive.org/save-plan.html
 - Teacher Loan Forgiveness [2026]: 20 USC 1078-10 Up to $17,500 for 5 Years in Title I Schools: https://studentloanforgive.org/teacher-loan-forgiveness.html
 - Total and Permanent Disability Discharge [2026]: 34 CFR 685.213 TPD Discharge for Federal Student Loans: https://studentloanforgive.org/total-disability-discharge.html
 - Privacy Policy: https://studentloanforgive.org/privacy.html
