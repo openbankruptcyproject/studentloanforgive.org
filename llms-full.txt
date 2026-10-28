@@ -19,7 +19,7 @@ Home » Student Loan Forgiveness Status
 
 Federal Forgiveness Programs Active Now
 
-As of early 2026, several forgiveness programs are actively providing relief: PSLF: Fully operational. Over 900,000 borrowers have received forgiveness totaling $70B+. IDR Account Adjustment: Completed. Millions of borrowers received credit for past payments that didn't previously qualify. Borrower Defense: Processing ongoing. Group findings for ITT Tech, Corinthian, and Art Institutes have provided $30B+ in relief. TPD Discharge: Active with automatic identification of disabled borrowers through SSA/VA data matching.
+As of early 2026, several forgiveness programs are actively providing relief: PSLF: Operating; current approval totals are in the FSA Data Center at StudentAid.gov/data-center. IDR Account Adjustment: Completed. Millions of borrowers received credit for past payments that didn't previously qualify. Borrower Defense: Processing ongoing. Group findings for ITT Tech, Corinthian, and Art Institutes have provided $30B+ in relief. TPD Discharge: Active with automatic identification of disabled borrowers through SSA/VA data matching.
 
 If you haven't checked your forgiveness eligibility recently, now is a good time. Major program changes since 2022 may have made you eligible when you weren't before. Check PSLF eligibility.
 
@@ -1631,15 +1631,15 @@ Home » Total and Permanent Disability Discharge
 
 Eligibility
 
-You qualify for TPD discharge if you're totally and permanently disabled as documented by: a physician certification stating you're unable to engage in substantial gainful activity due to a physical or mental impairment that can be expected to result in death, last continuously for at least 60 months, or is of indeterminate duration. Alternatively: an SSA disability determination (SSDI or SSI), or a VA disability rating of 100% or TDIU (Total Disability Individual Unemployability).
+You qualify for TPD discharge if you're totally and permanently disabled as documented by: a certification from a physician, nurse practitioner, physician assistant, or psychologist that you're unable to engage in substantial gainful activity due to a physical or mental impairment that can be expected to result in death, has lasted at least 60 months, or can be expected to last at least 60 months. Alternatively: Social Security Administration disability data, or a VA determination that you are unemployable due to a service-connected disability (34 CFR 685.102, 685.213).
 
 VA and SSA determinations are the easiest path - the Department of Education accepts these directly without additional medical documentation. Physician certification requires a specific form and is subject to more scrutiny.
 
 Application Process
 
-Step 1: Apply online at DisabilityDischarge.com. Step 2: Submit documentation: SSA benefit verification letter, VA disability rating letter, or physician certification. Step 3: The Department of Education reviews the application (typically 60-90 days). Step 4: If approved, loans are discharged and you enter a 3-year monitoring period (waived for VA determinations).
+Step 1: Apply on StudentAid.gov (StudentAid.gov/disabilitydischarge), where TPD applications have been handled since March 23, 2025. Step 2: Submit documentation: SSA disability information, a VA unemployability determination, or a medical professional's certification. Step 3: The Department of Education reviews the application. Step 4: If approved, your loans are discharged.
 
-During the monitoring period, you must report your income annually. If your income exceeds the poverty line for a family of your size, the discharge can be reversed. After the 3-year period, the discharge is permanent. VA-determined TPD discharges skip the monitoring period entirely.
+After discharge, there is no income monitoring. For a discharge based on SSA data or a medical professional's certification, the Department of Education reinstates the loan only if, within 3 years after the discharge, you receive a new Direct Loan or TEACH Grant (34 CFR 685.213(b)(7)). The discharge is not reversed because your income rises.
 
 Tax Treatment and Other Considerations
 
@@ -1651,7 +1651,7 @@ Frequently Asked Questions
 
 Can I work and still get TPD discharge?
 
-The monitoring period tracks your income against the poverty line. Earning above the poverty threshold can result in reinstatement of the loans. If you receive SSDI and do a Trial Work Period, consult your servicer about the impact on your TPD discharge.
+There is no income monitoring after a TPD discharge under the current rules, so earnings do not reinstate the loans. For a discharge based on SSA data or a medical certification, the loan is reinstated only if you receive a new Direct Loan or TEACH Grant within 3 years (34 CFR 685.213(b)(7)). If you receive SSDI and work, ask Social Security how work affects your benefits.
 
 Does TPD discharge affect cosigners?
 
@@ -1659,7 +1659,7 @@ On federal loans, there are no cosigners. If you have private loans with cosigne
 
 What if my disability improves after discharge?
 
-If your disability improves during the 3-year monitoring period and your income exceeds the poverty threshold, the discharge can be reversed. After the monitoring period ends, the discharge is permanent regardless of any improvement in condition.
+Under the current rules, improvement in your condition or higher income does not reverse a TPD discharge. For a discharge based on SSA data or a medical certification, the loan is reinstated only if you receive a new Direct Loan or TEACH Grant within 3 years after the discharge (34 CFR 685.213(b)(7)).
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1957,11 +1957,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2108,11 +2108,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2245,11 +2245,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2382,11 +2382,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2533,11 +2533,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2684,11 +2684,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2835,11 +2835,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -2986,11 +2986,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -3123,11 +3123,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -3260,11 +3260,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -3411,11 +3411,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -3562,11 +3562,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -3699,11 +3699,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -3836,11 +3836,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4028,11 +4028,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4179,11 +4179,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4316,11 +4316,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4467,11 +4467,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4618,11 +4618,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4755,11 +4755,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -4892,11 +4892,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5043,11 +5043,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5194,11 +5194,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5345,11 +5345,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5496,11 +5496,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5633,11 +5633,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5784,11 +5784,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -5921,11 +5921,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6072,11 +6072,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6223,11 +6223,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6360,11 +6360,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6511,11 +6511,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6648,11 +6648,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6799,11 +6799,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -6950,11 +6950,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7087,11 +7087,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7238,11 +7238,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7389,11 +7389,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7526,11 +7526,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7677,11 +7677,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7814,11 +7814,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -7965,11 +7965,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8102,11 +8102,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8253,11 +8253,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8404,11 +8404,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8541,11 +8541,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8678,11 +8678,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8829,11 +8829,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -8966,11 +8966,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -9117,11 +9117,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
@@ -9268,11 +9268,11 @@ State-level programs typically target professionals willing to serve in shortage
 
 Service commitment - usually 2-5 years in a designated location.
 
-Annual award - typically $10,000-$50,000/year, paid directly to the loan servicer.
+Annual award - amounts and payment method vary by program; check the program's own terms.
 
 Tax treatment - some states exempt the forgiven amount from state tax even when federal tax applies.
 
-Stackability with PSLF - in most cases, state loan repayment awards stack with PSLF payments because PSLF only requires you make qualifying payments, not that you personally pay them.
+Interaction with PSLF - ask both the state program and your loan servicer how award payments are credited before relying on them for PSLF.
 
 See state-program inventory (if available) for detailed terms.
 
