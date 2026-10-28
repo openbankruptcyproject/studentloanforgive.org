@@ -1164,13 +1164,13 @@ Home » Public Service Loan Forgiveness (PSLF)
 
 PSLF Requirements
 
-PSLF forgives the remaining balance on Direct Loans after 120 qualifying payments (10 years) while working full-time for a qualifying employer. Qualifying employers: Federal, state, local, and tribal government agencies, 501(c)(3) nonprofits, AmeriCorps, and Peace Corps. Qualifying payments: Must be made under an income-driven repayment plan (IBR, PAYE, REPAYE/SAVE) while employed by a qualifying employer.
+PSLF forgives the remaining balance on Direct Loans after 120 qualifying payments (10 years) while working full-time for a qualifying employer. Qualifying employers: Federal, state, local, and tribal government agencies, 501(c)(3) nonprofits, AmeriCorps, and Peace Corps. Qualifying payments: Must be made under a qualifying repayment plan while employed by a qualifying employer. Under 34 CFR 685.219(b), that means an income-driven repayment plan, the Repayment Assistance Plan, the 10-year Standard plan, or another plan whose monthly payment is at least the 10-year Standard amount. Income-driven plans are the usual route, because the 10-year Standard plan pays the loan off in 120 payments and leaves little or nothing to forgive.
 
 The 120 payments don't need to be consecutive. If you leave public service and return later, previous qualifying payments still count. However, payments made while not employed by a qualifying employer don't count even if you're on an IDR plan.
 
 Common Mistakes That Disqualify Payments
 
-Wrong loan type: Only Direct Loans qualify. FFEL loans and Perkins loans must be consolidated into a Direct Consolidation Loan first (pre-consolidation payments don't count unless under the temporary waiver). Wrong repayment plan: Standard, graduated, and extended plans don't produce qualifying payments. You must be on IBR, ICR, PAYE, or SAVE. Not full-time: You must work at least 30 hours per week (or whatever the employer considers full-time) for a qualifying employer.
+Wrong loan type: Only Direct Loans qualify. FFEL loans and Perkins loans must be consolidated into a Direct Consolidation Loan first (pre-consolidation payments don't count unless under the temporary waiver). Wrong repayment plan: Graduated and extended plans don't produce qualifying payments unless the monthly payment is at least what the 10-year Standard plan would require. The 10-year Standard plan does qualify, but it leaves little or nothing to forgive, so most PSLF borrowers use an income-driven plan. Not full-time: You must work at least 30 hours per week (or whatever the employer considers full-time) for a qualifying employer.
 
 Critical step: Submit the Employment Certification Form (ECF) annually. This verifies your qualifying employer and tracks your payments. Don't wait until 120 payments - submit annually so errors are caught early.
 
@@ -9477,7 +9477,7 @@ Eligibility Requirements
 
 Loan type: Must be Direct Loans (FFEL and Perkins loans can be consolidated into Direct Loans to qualify)
 
-Repayment plan: Must be on an income-driven repayment plan (SAVE, PAYE, IBR, or ICR)
+Repayment plan: Must be on a qualifying repayment plan: an income-driven plan, the Repayment Assistance Plan, or the 10-year Standard plan (which qualifies but leaves little or nothing to forgive)
 
 Employer: Federal, state, local, or tribal government, or 501(c)(3) nonprofit
 
